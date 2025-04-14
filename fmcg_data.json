@@ -1,0 +1,41 @@
+[
+  {
+    "id": "PROD001",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Boost your energy with our Green Tea Matcha Latte Mix! Made from high-quality matcha powder, green tea leaves, and natural sweeteners, this mix is perfect for a quick pick-me-up. Enjoy the rich, slightly bitter taste of matcha in the comfort of your own home. Nutrition Facts: Calories 120, Fat 2g, Protein 3g, Sugar 10g per serving (1 cup). Tags: [matcha, green tea, latte mix, energy drink, healthy]",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "organic",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": "PROD002",
+    "title": "Natural Deodorant Spray",
+    "description": "Stay fresh and confident all day with our Natural Deodorant Spray! Made with soothing aloe vera, tea tree oil, and baking soda, this spray keeps you dry and odor-free. Perfect for sensitive skin and the environment. Tags: [natural, deodorant, antiperspirant, vegan, cruelty-free].",
+    "category": "Personal Care",
+    "brand": "Earthly Essentials",
+    "price": 6.99,
+    "tags": [
+      "aloe vera",
+      "tea tree oil",
+      "baking soda"
+    ]
+  },
+  {
+    "id": "PROD003",
+    "title": "Eco-Friendly Dish Soap",
+    "description": "Clean your home with a clear conscience! Our Eco-Friendly Dish Soap is made from natural ingredients like coconut oil, olive oil, and essential oils. Biodegradable and free of harsh chemicals, this soap is gentle on hands and the environment. Tags: [eco-friendly, biodegradable, natural ingredients].",
+    "category": "Cleaning",
+    "brand": "Green Clean Co.",
+    "price": 3.49,
+    "tags": [
+      "coconut oil",
+      "olive oil",
+      "essential oils"
+    ]
+  }
+]
