@@ -1,0 +1,6 @@
+3 product generation | <30s
+10 product generation | 51.79s
+
+0/100 products | Batch Size: 20 | Concurrency: 5 | Time: 691.27s (11.52m) | Success Rate: 0/5 batches
+84/100 products | Batch Size: 8 | Concurrency: 3 | Time: 1782.94s (29.72m) | Success Rate: 11/13 batches
+10/10 products | Batch Size: 2 | Concurrency: 3 | Time: 105.52s (1.76m) | Success Rate: 5/5 batches

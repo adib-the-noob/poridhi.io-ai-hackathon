@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this blend is free from artificial flavors and colors. Each serving contains 20 calories, 0g fat, 2g protein, and 5g sugar. Perfect for a quick pick-me-up or as a base for your favorite coffee drinks.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "caffeine-free"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Eco-Friendly All-Purpose Cleaner",
+    "description": "Say goodbye to harsh chemicals and hello to a cleaner that's gentle on surfaces and the environment. Our all-purpose cleaner is made with plant-based ingredients, including essential oils and natural surfactants. Free from bleach, ammonia, and other toxic substances. Perfect for cleaning countertops, sinks, and floors.",
+    "category": "Cleaning",
+    "brand": "EcoClean",
+    "price": 7.99,
+    "tags": [
+      "eco-friendly",
+      "all-purpose cleaner",
+      "plant-based",
+      "non-toxic"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Organic Coconut Oil Shampoo",
+    "description": "Nourish your hair and scalp with our organic coconut oil shampoo. Made from high-quality coconut oil, this sulfate-free shampoo gently cleanses and moisturizes dry, damaged locks. Contains no harsh chemicals or artificial fragrances. Perfect for those with sensitive scalps or color-treated hair.",
+    "category": "Personal Care",
+    "brand": "Coconut Bliss",
+    "price": 12.99,
+    "tags": [
+      "organic",
+      "coconut oil",
+      "sulfate-free",
+      "moisturizing"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Gluten-Free Oatmeal Cookies",
+    "description": "Indulge in the warm, comforting taste of our gluten-free oatmeal cookies. Made with rolled oats, nuts, and dried fruits, these chewy treats are perfect for snacking on-the-go or as a sweet breakfast option. Each serving contains 120 calories, 2g fat, 2g protein, and 20g sugar.",
+    "category": "Snacks",
+    "brand": "GlutenFreeDelights",
+    "price": 3.99,
+    "tags": [
+      "gluten-free",
+      "oatmeal cookies",
+      "chewy",
+      "snack"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Baking Soda and Essential Oil Deodorant",
+    "description": "Stay fresh and confident all day with our baking soda and essential oil deodorant. Made with natural ingredients, including tea tree oil and lavender oil, this deodorant is free from harsh chemicals and artificial fragrances. Perfect for those who prefer a more natural approach to personal hygiene.",
+    "category": "Personal Care",
+    "brand": "NaturalBliss",
+    "price": 9.99,
+    "tags": [
+      "natural",
+      "deodorant",
+      "baking soda",
+      "essential oils"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Quick-Clean All-Purpose Wipes",
+    "description": "Clean surfaces quickly and easily with our all-purpose wipes. Made from a unique blend of cleaning agents, these wipes are perfect for wiping down countertops, sinks, and floors. Contains no harsh chemicals or artificial fragrances.",
+    "category": "Cleaning",
+    "brand": "QuickClean",
+    "price": 5.99,
+    "tags": [
+      "quick-clean",
+      "all-purpose wipes",
+      "non-toxic",
+      "convenient"
+    ]
+  },
+  {
+    "id": "FMCG-9876",
+    "title": "Vegan and Sugar-Free Energy Bars",
+    "description": "Fuel your active lifestyle with our vegan and sugar-free energy bars. Made from a blend of plant-based ingredients, including nuts, seeds, and dried fruits, these bars are perfect for snacking on-the-go or as a post-workout recovery option. Each serving contains 150 calories, 3g fat, 2g protein, and 5g sugar.",
+    "category": "Snacks",
+    "brand": "VeganFuel",
+    "price": 6.99,
+    "tags": [
+      "vegan",
+      "sugar-free",
+      "energy bars",
+      "plant-based"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Bleach-Free Laundry Detergent",
+    "description": "Clean your clothes without harsh chemicals with our bleach-free laundry detergent. Made from a unique blend of natural surfactants and essential oils, this detergent is gentle on fabrics and the environment. Perfect for those who prefer a more eco-friendly approach to laundry.",
+    "category": "Household",
+    "brand": "EcoClean",
+    "price": 8.99,
+    "tags": [
+      "bleach-free",
+      "laundry detergent",
+      "eco-friendly",
+      "natural surfactants"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this product is perfect for coffee lovers looking to switch up their morning routine. Rich in antioxidants and L-theanine, it promotes a sense of calm focus. Mix with hot water or milk for a delicious and healthy beverage. Nutrition Facts: Calories 120 per serving, Fat 0g, Protein 2g, Sugar 10g.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "antioxidant-rich",
+      "caffeine-free"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Bamboo Toothbrush with Charcoal",
+    "description": "Introducing the eco-friendly alternative to traditional toothbrushes. Our bamboo toothbrush features a natural charcoal head that gently removes plaque and whiten teeth while promoting healthy gums. Made from sustainable materials, it's perfect for those looking to reduce their environmental impact. Key Ingredients: Bamboo, Coconut Oil, Activated Charcoal.",
+    "category": "Personal Care",
+    "brand": "EcoSmile",
+    "price": 9.99,
+    "tags": [
+      "eco-friendly",
+      "bamboo toothbrush",
+      "charcoal",
+      "natural ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Quinoa and Black Bean Salad Mix",
+    "description": "Add some excitement to your meal routine with our quinoa and black bean salad mix. Made from high-quality quinoa and black beans, this product is perfect for vegetarians and vegans looking for a protein-rich snack. Rich in fiber and antioxidants, it's also gluten-free and vegan-friendly. Nutrition Facts: Calories 250 per serving, Fat 4g, Protein 10g, Sugar 5g.",
+    "category": "Snacks",
+    "brand": "GreenBite",
+    "price": 3.99,
+    "tags": [
+      "quinoa",
+      "black bean salad mix",
+      "vegan",
+      "gluten-free",
+      "high-fiber"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Eco-Friendly Dish Soap",
+    "description": "Say goodbye to harsh chemicals and hello to a greener cleaning routine with our eco-friendly dish soap. Made from natural ingredients like coconut oil and essential oils, it effectively cleans dishes while promoting healthy skin. Key Ingredients: Coconut Oil, Essential Oils (Lemon, Tea Tree), Glycerin.",
+    "category": "Cleaning",
+    "brand": "GreenClean",
+    "price": 7.99,
+    "tags": [
+      "eco-friendly",
+      "dish soap",
+      "natural ingredients",
+      "biodegradable"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Organic Baby Wipes",
+    "description": "Introducing our organic baby wipes, made from 100% natural and biodegradable materials. Perfect for sensitive skin, these wipes are gentle on babies while keeping them clean and hygienic. Key Ingredients: Organic Cotton, Aloe Vera, Glycerin.",
+    "category": "Baby Care",
+    "brand": "PureCare",
+    "price": 12.99,
+    "tags": [
+      "organic",
+      "baby wipes",
+      "sensitive skin",
+      "biodegradable"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Gluten-Free Granola Bars",
+    "description": "Indulge in the delicious taste of our gluten-free granola bars, made with wholesome ingredients like nuts and seeds. Perfect for breakfast on-the-go or as a snack, these bars are also vegan-friendly and high in fiber. Nutrition Facts: Calories 200 per serving, Fat 8g, Protein 4g, Sugar 10g.",
+    "category": "Snacks",
+    "brand": "NutriBar",
+    "price": 5.99,
+    "tags": [
+      "gluten-free",
+      "granola bars",
+      "vegan",
+      "high-fiber"
+    ]
+  },
+  {
+    "id": "FMCG-9876",
+    "title": "Natural Air Freshener Spray",
+    "description": "Eliminate odors and freshen the air with our natural air freshener spray. Made from essential oils like lavender and lemon, this product is perfect for homes, cars, or offices. Key Ingredients: Essential Oils (Lavender, Lemon), Glycerin.",
+    "category": "Household",
+    "brand": "FreshBreeze",
+    "price": 6.99,
+    "tags": [
+      "natural air freshener",
+      "essential oils",
+      "non-toxic"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Canned Tuna in Olive Oil",
+    "description": "Enjoy the rich flavor of our canned tuna in olive oil, made from sustainably sourced tuna. Perfect for salads, sandwiches, or as a snack, this product is also low in mercury and high in protein. Nutrition Facts: Calories 150 per serving, Fat 3g, Protein 20g, Sugar 0g.",
+    "category": "Canned Goods",
+    "brand": "OceanFresh",
+    "price": 8.99,
+    "tags": [
+      "canned tuna",
+      "olive oil",
+      "sustainably sourced",
+      "low mercury"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of green tea matcha with our convenient latte mix. Made with high-quality matcha powder, this blend is perfect for coffee lovers looking to switch up their morning routine. Rich in antioxidants and L-theanine, it promotes a sense of calm focus. Mix 1-2 teaspoons with hot water or milk for a delicious and healthy drink. Nutrition Facts: Calories per serving (1 cup): 120, Fat: 0g, Protein: 2g, Sugar: 20g.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "antioxidant-rich",
+      "caffeine-free"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Baking Bliss All-Purpose Flour",
+    "description": "Indulge in the rich flavor of our all-purpose flour, perfect for baking a variety of treats. Made from high-quality wheat and containing no artificial additives or preservatives, this flour is ideal for those seeking a healthier baking option. Use it to make delicious cakes, cookies, and breads. Nutrition Facts: Calories per serving (1 cup): 120, Fat: 2g, Protein: 6g, Sugar: 0g.",
+    "category": "Bakery",
+    "brand": "Flourish Baking Co.",
+    "price": 3.49,
+    "tags": [
+      "all-purpose flour",
+      "wheat flour",
+      "healthy baking option",
+      "no artificial additives"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Nature's Bliss Organic Baby Wipes",
+    "description": "Keep your little one clean and comfortable with our organic baby wipes. Made from sustainable materials and free from harsh chemicals, these gentle wipes are perfect for everyday use. Our unique blend of aloe vera and chamomile soothes sensitive skin while keeping it moisturized. Suitable for newborns to toddlers. Ingredients: Organic Cotton, Aloe Vera, Chamomile, Glycerin.",
+    "category": "Baby Care",
+    "brand": "Green Earth Baby",
+    "price": 6.99,
+    "tags": [
+      "organic",
+      "baby wipes",
+      "sustainable materials",
+      "aloe vera"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "QuickClean All-Purpose Cleaner",
+    "description": "Say goodbye to tough stains and grime with our powerful all-purpose cleaner. Made from a blend of natural essential oils and plant-based surfactants, this eco-friendly cleaner is perfect for everyday cleaning tasks. Safe for use on most surfaces, including countertops, sinks, and mirrors. Ingredients: Plant-Based Surfactants, Essential Oils (Lemon, Tea Tree), Water.",
+    "category": "Cleaning",
+    "brand": "QuickClean Solutions",
+    "price": 2.99,
+    "tags": [
+      "all-purpose cleaner",
+      "eco-friendly",
+      "natural essential oils"
+    ]
+  },
+  {
+    "id": "FMCG-7890",
+    "title": "SunGuard Sunscreen Lotion",
+    "description": "Protect your skin from the harsh effects of UV rays with our broad-spectrum sunscreen lotion. Made with zinc oxide and antioxidants, this rich and non-greasy lotion is perfect for daily use. Suitable for all skin types, including sensitive skin. Ingredients: Zinc Oxide, Antioxidants (Vitamin E), Glycerin.",
+    "category": "Personal Care",
+    "brand": "SunGuard Skin Care",
+    "price": 9.99,
+    "tags": [
+      "sunscreen",
+      "zinc oxide",
+      "antioxidant-rich"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "FreshStart Laundry Detergent",
+    "description": "Get your clothes smelling fresh and clean with our powerful laundry detergent. Made from a blend of natural enzymes and plant-based surfactants, this eco-friendly detergent is perfect for everyday washing tasks. Safe for use on most fabrics, including cotton, polyester, and wool. Ingredients: Plant-Based Surfactants, Natural Enzymes (Amylase, Lipase), Essential Oils (Lemon, Eucalyptus).",
+    "category": "Household",
+    "brand": "FreshStart Cleaning Co.",
+    "price": 4.49,
+    "tags": [
+      "laundry detergent",
+      "eco-friendly",
+      "natural enzymes"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Purezza Natural Soap Bar",
+    "description": "Indulge in the rich lather and nourishing properties of our natural soap bar. Made from a blend of coconut oil, olive oil, and essential oils, this soap is perfect for sensitive skin. Ingredients: Coconut Oil, Olive Oil, Essential Oils (Lavender, Tea Tree), Glycerin.",
+    "category": "Personal Care",
+    "brand": "Purezza Soap Co.",
+    "price": 5.99,
+    "tags": [
+      "natural soap",
+      "coconut oil",
+      "olive oil"
+    ]
+  },
+  {
+    "id": "FMCG-0123",
+    "title": "EasyClean Dishwashing Liquid",
+    "description": "Make cleaning up a breeze with our easy-to-use dishwashing liquid. Made from a blend of plant-based surfactants and essential oils, this gentle liquid is perfect for everyday washing tasks. Safe for use on most surfaces, including dishes, utensils, and countertops. Ingredients: Plant-Based Surfactants, Essential Oils (Lemon, Eucalyptus), Water.",
+    "category": "Cleaning",
+    "brand": "EasyClean Solutions",
+    "price": 2.99,
+    "tags": [
+      "dishwashing liquid",
+      "plant-based surfactants"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this mix is perfect for those looking to boost their energy levels or simply enjoy a delicious cup of coffee substitute. Rich in antioxidants, it supports immune function and overall well-being. Nutrition Facts: 120 calories per serving (1 packet), 2g fat, 20g carbs, 3g protein.",
+    "category": "Beverages",
+    "brand": "MatchaBliss",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "antioxidant-rich"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Bamboo Toothbrush with Charcoal",
+    "description": "Say goodbye to plastic and hello to a healthier smile with our bamboo toothbrush featuring activated charcoal. This eco-friendly toothbrush is gentle on gums and teeth, while the charcoal helps whiten and detoxify your mouth. Key ingredients: Bamboo, Coconut Oil, Activated Charcoal.",
+    "category": "Personal Care",
+    "brand": "EcoSmile",
+    "price": 9.99,
+    "tags": [
+      "bamboo toothbrush",
+      "eco-friendly",
+      "activated charcoal",
+      "whitening"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Quinoa and Black Bean Snack Bars",
+    "description": "Nourish your body with our wholesome snack bars made from quinoa, black beans, and a hint of cumin. These protein-rich bars are perfect for post-workout recovery or as a quick energy boost on-the-go. Nutrition Facts: 250 calories per bar, 10g protein, 30g carbs, 8g fat.",
+    "category": "Snacks",
+    "brand": "NourishBar",
+    "price": 6.99,
+    "tags": [
+      "quinoa",
+      "black bean",
+      "protein-rich",
+      "wholesome"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Eco-Friendly Dish Soap with Essential Oils",
+    "description": "Clean your home without harming the environment! Our dish soap is made from natural essential oils and biodegradable ingredients, making it perfect for those looking for a greener cleaning option. Key ingredients: Coconut Oil, Lemon Essential Oil, Tea Tree Oil.",
+    "category": "Cleaning",
+    "brand": "GreenClean",
+    "price": 7.99,
+    "tags": [
+      "eco-friendly",
+      "dish soap",
+      "essential oils",
+      "biodegradable"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Organic Coconut Oil for Cooking and Skincare",
+    "description": "Experience the versatility of our organic coconut oil, perfect for cooking, skincare, or haircare. Rich in medium-chain triglycerides (MCTs), it supports immune function and skin health. Nutrition Facts: 120 calories per tablespoon, 14g fat, 0g carbs.",
+    "category": "Household",
+    "brand": "OrganicOlive",
+    "price": 12.99,
+    "tags": [
+      "organic",
+      "coconut oil",
+      "versatile",
+      "MCT-rich"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Gluten-Free and Vegan Granola",
+    "description": "Start your day with a delicious and nutritious breakfast option! Our gluten-free and vegan granola is made from wholesome ingredients, including nuts, seeds, and dried fruits. Perfect for those with dietary restrictions or preferences. Nutrition Facts: 150 calories per serving (1/4 cup), 3g protein, 25g carbs, 8g fat.",
+    "category": "Snacks",
+    "brand": "FreeFromGranola",
+    "price": 5.99,
+    "tags": [
+      "gluten-free",
+      "vegan",
+      "wholesome",
+      "nutritious"
+    ]
+  },
+  {
+    "id": "FMCG-9876",
+    "title": "Baby Wipes with Aloe Vera and Vitamin E",
+    "description": "Keep your little one's skin soft and healthy with our baby wipes featuring aloe vera and vitamin E. Gentle on sensitive skin, these wipes are perfect for diaper changes or as a quick clean-up solution. Key ingredients: Aloe Vera, Vitamin E, Glycerin.",
+    "category": "Baby Care",
+    "brand": "LittleCare",
+    "price": 8.99,
+    "tags": [
+      "baby wipes",
+      "aloe vera",
+      "vitamin e",
+      "gentle"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Quick-Clean All-Purpose Cleaner with Bleach-Free Formula",
+    "description": "Clean your home quickly and safely with our all-purpose cleaner featuring a bleach-free formula. Effective against dirt, grime, and stains, this cleaner is perfect for everyday use. Key ingredients: Water, Glycerin, Essential Oils.",
+    "category": "Cleaning",
+    "brand": "QuickClean",
+    "price": 8.49,
+    "tags": [
+      "quick-clean",
+      "all-purpose cleaner",
+      "bleach-free",
+      "effective"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of green tea matcha with our convenient latte mix. Made from high-quality matcha powder, this mix is perfect for coffee lovers looking to switch up their morning routine. Rich in antioxidants and L-theanine, it promotes a sense of calm focus. Mix 1 teaspoon with 8 oz hot water and enjoy! Nutrition Facts: Calories per serving (1 packet): 10, Fat: 0g, Protein: 2g, Sugar: 5g.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "antioxidant-rich",
+      "caffeine-free"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Bamboo Toothbrushes",
+    "description": "Switch to a more sustainable oral care routine with our bamboo toothbrushes. Made from eco-friendly bamboo, these toothbrushes are durable and gentle on teeth and gums. The soft bristles are designed for effective cleaning without scratching surfaces. Key ingredients: Bamboo, Nylon Bristles. Suitable for all ages and dental needs.",
+    "category": "Personal Care",
+    "brand": "EcoBrush Co.",
+    "price": 9.99,
+    "tags": [
+      "bamboo toothbrush",
+      "eco-friendly",
+      "sustainable oral care",
+      "soft bristles"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Quinoa and Black Bean Salad Mix",
+    "description": "Add some excitement to your meal routine with our quinoa and black bean salad mix. Made from high-quality quinoa and black beans, this mix is perfect for vegans and vegetarians looking for a protein-packed snack. Rich in fiber and minerals, it's also gluten-free and low in calories. Nutrition Facts: Calories per serving (1 cup cooked): 350, Fat: 10g, Protein: 15g, Sugar: 5g.",
+    "category": "Snacks",
+    "brand": "GreenBite Foods",
+    "price": 3.49,
+    "tags": [
+      "quinoa",
+      "black bean salad mix",
+      "vegan",
+      "gluten-free",
+      "high-fiber"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Castile Soap for Sensitive Skin",
+    "description": "Say goodbye to harsh soaps and hello to gentle, nourishing skin care with our castile soap. Made from pure olive oil and essential oils, this soap is perfect for sensitive skin types. Key ingredients: Olive Oil, Coconut Oil, Essential Oils. Suitable for all skin types, including acne-prone and eczema sufferers.",
+    "category": "Personal Care",
+    "brand": "Nature's Bliss",
+    "price": 7.99,
+    "tags": [
+      "castile soap",
+      "sensitive skin",
+      "natural ingredients",
+      "gentle cleanser"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Eco-Friendly Dish Soap",
+    "description": "Clean your dishes with a clear conscience using our eco-friendly dish soap. Made from plant-based surfactants and essential oils, this soap is gentle on hands and the environment. Key ingredients: Plant-Based Surfactants, Essential Oils. Suitable for all types of dishes and surfaces.",
+    "category": "Cleaning",
+    "brand": "GreenClean Pro",
+    "price": 6.99,
+    "tags": [
+      "eco-friendly dish soap",
+      "plant-based surfactants",
+      "biodegradable",
+      "gentle on hands"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Organic Baby Wipes",
+    "description": "Keep your little one clean and comfortable with our organic baby wipes. Made from 100% organic cotton and natural essential oils, these wipes are gentle on skin and the environment. Key ingredients: Organic Cotton, Natural Essential Oils. Suitable for all ages and skin types.",
+    "category": "Baby Care",
+    "brand": "PureLittle",
+    "price": 12.99,
+    "tags": [
+      "organic baby wipes",
+      "natural essential oils",
+      "100% organic cotton",
+      "gentle on skin"
+    ]
+  },
+  {
+    "id": "FMCG-9876",
+    "title": "Gluten-Free Granola Bars",
+    "description": "Take your breakfast on-the-go with our gluten-free granola bars. Made from high-quality oats and natural ingredients, these bars are perfect for busy mornings. Rich in fiber and protein, they're also low in sugar and calories. Nutrition Facts: Calories per serving (1 bar): 200, Fat: 8g, Protein: 10g, Sugar: 5g.",
+    "category": "Snacks",
+    "brand": "NutriBite",
+    "price": 4.99,
+    "tags": [
+      "gluten-free granola bars",
+      "high-fiber",
+      "low-sugar",
+      "natural ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Natural Air Freshener Spray",
+    "description": "Keep your home smelling fresh and clean with our natural air freshener spray. Made from essential oils and plant-based ingredients, this spray is gentle on surfaces and the environment. Key ingredients: Essential Oils, Plant-Based Ingredients. Suitable for all types of homes and surfaces.",
+    "category": "Household",
+    "brand": "FreshBreeze Co.",
+    "price": 5.99,
+    "tags": [
+      "natural air freshener spray",
+      "essential oils",
+      "plant-based ingredients",
+      "gentle on surfaces"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this mix is perfect for coffee lovers looking to switch up their morning routine. Rich in antioxidants and L-theanine, it promotes a sense of calm focus. Mix 1-2 teaspoons with 8oz hot water, add milk and honey to taste. (120 calories, 2g fat, 20g carbs, 3g protein per serving). Brand: Matcha Magic.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "antioxidant-rich"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Baking Soda-Free Laundry Detergent",
+    "description": "Say goodbye to harsh chemicals and hello to a fresher, cleaner home with our eco-friendly laundry detergent. Made from natural ingredients like baking soda-free soap and essential oils, this detergent is gentle on clothes and the environment. Perfect for those looking for a more sustainable alternative to traditional detergents. (Free of phosphates, chlorine, and fragrances). Brand: EcoClean.",
+    "category": "Cleaning",
+    "brand": "EcoClean",
+    "price": 7.99,
+    "tags": [
+      "eco-friendly",
+      "baking soda-free",
+      "natural ingredients",
+      "sustainable"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Organic Coconut Oil Shampoo Bar",
+    "description": "Indulge in the nourishing benefits of organic coconut oil with our sulfate-free shampoo bar. Made from natural ingredients like coconut oil, shea butter, and essential oils, this bar gently cleanses and moisturizes your hair. Perfect for those looking for a chemical-free alternative to traditional shampoos. (Free of sulfates, parabens, and artificial fragrances). Brand: Coconut Bliss.",
+    "category": "Personal Care",
+    "brand": "Coconut Bliss",
+    "price": 12.99,
+    "tags": [
+      "organic",
+      "coconut oil",
+      "sulfate-free",
+      "natural ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Quick-Clean All-Purpose Cleaner",
+    "description": "Get the job done faster with our powerful all-purpose cleaner. Made from a blend of natural ingredients like essential oils and plant extracts, this cleaner effectively tackles tough messes without harsh chemicals. Perfect for busy households and offices. (Free of bleach, ammonia, and artificial fragrances). Brand: QuickClean.",
+    "category": "Cleaning",
+    "brand": "QuickClean",
+    "price": 6.99,
+    "tags": [
+      "quick-clean",
+      "all-purpose cleaner",
+      "natural ingredients",
+      "effective"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Gluten-Free Oatmeal Cookies Mix",
+    "description": "Indulge in the comforting taste of freshly baked oatmeal cookies with our convenient mix. Made from high-quality oats, sugar-free sweetener, and essential spices, this mix is perfect for those with dietary restrictions or preferences. (120 calories, 2g fat, 25g carbs, 3g protein per serving). Brand: GlutenFree Delights.",
+    "category": "Snacks",
+    "brand": "GlutenFree Delights",
+    "price": 5.99,
+    "tags": [
+      "gluten-free",
+      "oatmeal cookies",
+      "sugar-free",
+      "convenient mix"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Natural Aloe Vera Gel for Skin Care",
+    "description": "Soften and soothe your skin with our natural aloe vera gel. Made from pure aloe vera extract, this gel is perfect for after-sun care, acne treatment, or as a moisturizer. Rich in antioxidants and vitamins A, C, and E. (Free of harsh chemicals and artificial fragrances). Brand: Aloe Vera Co.",
+    "category": "Personal Care",
+    "brand": "Aloe Vera Co.",
+    "price": 9.99,
+    "tags": [
+      "natural aloe vera",
+      "skin care",
+      "antioxidant-rich",
+      "soothing"
+    ]
+  },
+  {
+    "id": "FMCG-9876",
+    "title": "Eco-Friendly Dish Soap Bar",
+    "description": "Clean your dishes with a clear conscience using our eco-friendly dish soap bar. Made from natural ingredients like essential oils and plant extracts, this bar effectively cuts through grease without harsh chemicals. Perfect for those looking for a sustainable alternative to traditional dish soaps. (Free of phosphates, chlorine, and fragrances). Brand: EcoSoap.",
+    "category": "Cleaning",
+    "brand": "EcoSoap",
+    "price": 8.99,
+    "tags": [
+      "eco-friendly",
+      "dish soap bar",
+      "natural ingredients",
+      "sustainable"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Vegan and Sugar-Free Granola Bars",
+    "description": "Fuel your active lifestyle with our vegan and sugar-free granola bars. Made from natural ingredients like nuts, seeds, and dried fruits, these bars are perfect for fitness enthusiasts and health-conscious individuals. (120 calories, 2g fat, 25g carbs, 3g protein per serving). Brand: Vegan Delights.",
+    "category": "Snacks",
+    "brand": "Vegan Delights",
+    "price": 7.49,
+    "tags": [
+      "vegan",
+      "sugar-free",
+      "granola bars",
+      "natural ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of green tea with our matcha latte mix. Made from high-quality matcha powder, this instant drink mix is perfect for a quick pick-me-up or as a relaxing afternoon treat. Rich in antioxidants and low in calories (120 per serving), it's also vegan-friendly and sugar-free. Enjoy the subtle bitterness of matcha in every sip! (Serving size: 1 cup, Calories: 120, Fat: 0g, Protein: 2g, Sugar: 0g)",
+    "category": "Beverages",
+    "brand": "MatchaBliss",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "vegan",
+      "sugar-free"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Natural Pet Shampoo Bar",
+    "description": "Keep your furry friend clean and healthy with our natural pet shampoo bar. Made from nourishing ingredients like coconut oil, shea butter, and essential oils, this gentle cleanser is free from harsh chemicals and artificial fragrances. Suitable for all coat types, it's also biodegradable and cruelty-free. (Active compounds: Coconut oil, Shea butter, Tea tree oil)",
+    "category": "Pet Care",
+    "brand": "Pawsome Naturals",
+    "price": 7.99,
+    "tags": [
+      "natural",
+      "organic",
+      "pet shampoo",
+      "cruelty-free"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Eco-Friendly Dish Soap",
+    "description": "Clean your dishes with a clear conscience using our eco-friendly dish soap. Made from plant-based ingredients and biodegradable, this gentle cleanser is free from harsh chemicals and artificial fragrances. It's also vegan-friendly and suitable for all surfaces. (Active compounds: Sodium lauryl sulfate-free, Coconut oil)",
+    "category": "Cleaning",
+    "brand": "GreenClean",
+    "price": 3.99,
+    "tags": [
+      "eco-friendly",
+      "biodegradable",
+      "vegan",
+      "dish soap"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Gluten-Free Oatmeal Cookies",
+    "description": "Indulge in the comforting taste of gluten-free oatmeal cookies, made with wholesome ingredients like rolled oats, nuts, and dried fruits. Rich in fiber and low in sugar (only 2g per serving), these chewy treats are perfect for a quick snack or dessert. Enjoy the warm spices and nutty flavor! (Serving size: 1 cookie, Calories: 120, Fat: 3g, Protein: 2g, Sugar: 8g)",
+    "category": "Bakery",
+    "brand": "GlutenFreeDelights",
+    "price": 5.99,
+    "tags": [
+      "gluten-free",
+      "oatmeal cookies",
+      "wholesome ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Quick-Clean All-Purpose Cleaner",
+    "description": "Tackle tough messes with our quick-clean all-purpose cleaner, made from a powerful blend of essential oils and plant-based surfactants. Biodegradable and non-toxic, it's safe for all surfaces and the environment. (Active compounds: Lemon oil, Tea tree oil)",
+    "category": "Cleaning",
+    "brand": "QuickClean",
+    "price": 6.99,
+    "tags": [
+      "quick-clean",
+      "all-purpose cleaner",
+      "biodegradable"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Organic Baby Lotion",
+    "description": "Keep your little one's skin soft and healthy with our organic baby lotion, made from nourishing ingredients like coconut oil, shea butter, and essential oils. Hypoallergenic and fragrance-free, it's perfect for sensitive skin. (Active compounds: Coconut oil, Shea butter)",
+    "category": "Baby Care",
+    "brand": "LittleLoveOrganics",
+    "price": 9.99,
+    "tags": [
+      "organic",
+      "baby lotion",
+      "hypoallergenic"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Sugar-Free Energy Drink Mix",
+    "description": "Boost your energy with our sugar-free energy drink mix, made from a blend of natural ingredients like green tea extract, ginseng, and B vitamins. Low in calories (10 per serving) and rich in antioxidants, it's perfect for a pre-workout boost or afternoon pick-me-up. Enjoy the refreshing taste! (Serving size: 1 scoop, Calories: 10, Fat: 0g, Protein: 2g, Sugar: 0g)",
+    "category": "Beverages",
+    "brand": "EnergyBoost",
+    "price": 4.49,
+    "tags": [
+      "sugar-free",
+      "energy drink mix",
+      "green tea extract"
+    ]
+  },
+  {
+    "id": "FMCG-8765",
+    "title": "Natural Deodorant Stick",
+    "description": "Stay fresh and confident with our natural deodorant stick, made from a blend of essential oils like lavender and tea tree oil. Free from harsh chemicals and artificial fragrances, it's perfect for sensitive skin. (Active compounds: Coconut oil, Shea butter)",
+    "category": "Personal Care",
+    "brand": "FreshStart",
+    "price": 7.99,
+    "tags": [
+      "natural",
+      "deodorant stick",
+      "essential oils"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Indulge in the refreshing taste of Japan's finest matcha green tea with our Green Tea Matcha Latte Mix. Made from high-quality matcha powder, this instant mix is perfect for coffee lovers looking to switch up their morning routine. Rich in antioxidants and L-theanine, it promotes a sense of calm focus. Per serving (1 cup): 30 calories, 0g fat, 6g carbs, 3g protein. Enjoy with milk or water, depending on your preference. Brand: Matcha Magic.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "instant mix",
+      "antioxidant-rich"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Eco-Friendly Dish Soap",
+    "description": "Say goodbye to harsh chemicals and hello to a greener cleaning experience with our Eco-Friendly Dish Soap. Made from natural ingredients like coconut oil, olive oil, and essential oils, this soap is gentle on hands yet tough on grease and grime. Key ingredients: Coconut Oil, Olive Oil, Tea Tree Oil. Brand: GreenClean.",
+    "category": "Cleaning",
+    "brand": "GreenClean",
+    "price": 6.99,
+    "tags": [
+      "eco-friendly",
+      "natural ingredients",
+      "dish soap",
+      "hand soap"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Probiotic Yogurt with Live Cultures",
+    "description": "Nourish your gut and boost your immune system with our Probiotic Yogurt with Live Cultures. Made from high-quality yogurt cultures, this probiotic-rich snack supports digestive health and promotes a balanced gut microbiome. Per serving (1 cup): 100 calories, 0g fat, 20g carbs, 10g protein. Brand: GutWell.",
+    "category": "Dairy",
+    "brand": "GutWell",
+    "price": 3.49,
+    "tags": [
+      "probiotic",
+      "live cultures",
+      "yogurt",
+      "digestive health"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Baking Powder with Natural Ingredients",
+    "description": "Add a touch of magic to your baked goods with our Baking Powder with Natural Ingredients. Made from natural ingredients like baking soda, cream of tartar, and potassium bitartrate, this baking powder is free from artificial additives and preservatives. Perfect for vegan, gluten-free, or low-carb recipes. Brand: BakeEasy.",
+    "category": "Bakery",
+    "brand": "BakeEasy",
+    "price": 2.99,
+    "tags": [
+      "natural ingredients",
+      "baking powder",
+      "vegan",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": "FMCG-7890",
+    "title": "Shampoo Bar with Coconut Oil and Shea Butter",
+    "description": "Say goodbye to harsh chemicals and hello to a nourishing hair care experience with our Shampoo Bar with Coconut Oil and Shea Butter. Made from natural ingredients like coconut oil, shea butter, and essential oils, this shampoo bar gently cleanses and moisturizes your locks. Key ingredients: Coconut Oil, Shea Butter, Tea Tree Oil. Brand: HairHaven.",
+    "category": "Personal Care",
+    "brand": "HairHaven",
+    "price": 8.99,
+    "tags": [
+      "shampoo bar",
+      "coconut oil",
+      "shea butter",
+      "natural ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Quick-Clean All-Purpose Cleaner",
+    "description": "Tackle tough messes with ease using our Quick-Clean All-Purpose Cleaner. Made from a blend of natural ingredients like baking soda, white vinegar, and essential oils, this cleaner is effective yet gentle on surfaces. Key ingredients: Baking Soda, White Vinegar, Lemon Essential Oil. Brand: CleanSlate.",
+    "category": "Household",
+    "brand": "CleanSlate",
+    "price": 5.99,
+    "tags": [
+      "all-purpose cleaner",
+      "natural ingredients",
+      "quick-clean",
+      "surface-safe"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Baby Wipes with Aloe Vera and Chamomile",
+    "description": "Keep your little ones clean and comfortable with our Baby Wipes with Aloe Vera and Chamomile. Made from gentle ingredients like aloe vera, chamomile, and cotton, these wipes soothe and moisturize sensitive skin. Key ingredients: Aloe Vera, Chamomile, Cotton. Brand: LittleLove.",
+    "category": "Baby Care",
+    "brand": "LittleLove",
+    "price": 7.99,
+    "tags": [
+      "baby wipes",
+      "aloe vera",
+      "chamomile",
+      "gentle on skin"
+    ]
+  },
+  {
+    "id": "FMCG-0123",
+    "title": "Gluten-Free Granola with Nuts and Seeds",
+    "description": "Start your day off right with our Gluten-Free Granola with Nuts and Seeds. Made from a blend of natural ingredients like nuts, seeds, and dried fruits, this granola is perfect for breakfast or snacking on the go. Per serving (1/4 cup): 120 calories, 2g fat, 25g carbs, 3g protein. Brand: GranolaCo.",
+    "category": "Snacks",
+    "brand": "GranolaCo",
+    "price": 5.49,
+    "tags": [
+      "gluten-free",
+      "nuts and seeds",
+      "dried fruits",
+      "healthy snack"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this mix is rich in antioxidants and can be enjoyed hot or iced. Nutrition Facts: Calories per serving (1 cup): 120, Fat: 2g, Protein: 3g, Sugar: 10g.",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "antioxidant-rich"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Organic Coconut Sugar",
+    "description": "Indulge in the natural sweetness of our organic coconut sugar, perfect for baking and cooking. Made from high-quality coconut sap, this sugar is free from additives and preservatives. Key Ingredients: Coconut Sap, Natural Minerals.",
+    "category": "Canned Goods",
+    "brand": "Coconut Bliss",
+    "price": 6.99,
+    "tags": [
+      "organic",
+      "coconut sugar",
+      "natural sweetener"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Bamboo Toothbrushes",
+    "description": "Switch to a more sustainable oral care routine with our bamboo toothbrushes. Made from eco-friendly bamboo, these toothbrushes are gentle on teeth and gums while reducing plastic waste. Key Ingredients: Bamboo, Natural Bristles.",
+    "category": "Personal Care",
+    "brand": "Bamboo Smile",
+    "price": 9.99,
+    "tags": [
+      "bamboo",
+      "eco-friendly",
+      "sustainable oral care"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Quick-Clean All-Purpose Cleaner",
+    "description": "Tackle tough messes with ease using our powerful all-purpose cleaner. Made from a blend of natural ingredients and essential oils, this cleaner is gentle on surfaces yet effective at removing dirt and grime. Key Ingredients: Plant-Based Surfactants, Essential Oils.",
+    "category": "Cleaning",
+    "brand": "CleanSlate",
+    "price": 7.99,
+    "tags": [
+      "all-purpose",
+      "natural ingredients",
+      "plant-based"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Gluten-Free Oatmeal",
+    "description": "Start your day with a nutritious and delicious bowl of gluten-free oatmeal. Made from high-quality oats, this breakfast option is rich in fiber and can be enjoyed hot or cold. Nutrition Facts: Calories per serving (1 cup): 150, Fat: 2g, Protein: 3g, Sugar: 5g.",
+    "category": "Frozen Foods",
+    "brand": "Oatly",
+    "price": 3.99,
+    "tags": [
+      "gluten-free",
+      "oatmeal",
+      "breakfast option"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Vegan Face Cream",
+    "description": "Nourish your skin with our rich and moisturizing vegan face cream. Made from a blend of natural ingredients, including coconut oil and shea butter, this cream is perfect for all skin types. Key Ingredients: Coconut Oil, Shea Butter.",
+    "category": "Personal Care",
+    "brand": "Green Goddess",
+    "price": 12.99,
+    "tags": [
+      "vegan",
+      "natural ingredients",
+      "moisturizing"
+    ]
+  },
+  {
+    "id": "FMCG-9876",
+    "title": "Eco-Friendly Dish Soap",
+    "description": "Clean your dishes with a clear conscience using our eco-friendly dish soap. Made from plant-based surfactants and essential oils, this soap is gentle on hands yet effective at removing grease and grime. Key Ingredients: Plant-Based Surfactants, Essential Oils.",
+    "category": "Cleaning",
+    "brand": "EcoClean",
+    "price": 5.99,
+    "tags": [
+      "eco-friendly",
+      "dish soap",
+      "plant-based"
+    ]
+  },
+  {
+    "id": "FMCG-5432",
+    "title": "Sugar-Free Energy Bars",
+    "description": "Stay energized and focused throughout the day with our sugar-free energy bars. Made from a blend of natural ingredients, including nuts and seeds, these bars are perfect for fitness enthusiasts and busy professionals alike. Key Ingredients: Nuts, Seeds, Natural Sweeteners.",
+    "category": "Snacks",
+    "brand": "EnergyBoost",
+    "price": 8.99,
+    "tags": [
+      "sugar-free",
+      "energy bars",
+      "natural ingredients"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this mix is perfect for coffee lovers looking to switch to a healthier alternative. With 10 calories, 0g fat, 2g protein, and 1g sugar per serving, you can indulge in the rich flavor of matcha without compromising on your dietary goals. Our unique blend of natural ingredients ensures a smooth and creamy texture that will leave you wanting more. Try it today!",
+    "category": "Beverages",
+    "brand": "Matcha Magic",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "healthy alternative",
+      "low calorie"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Bamboo Toothbrushes with Charcoal",
+    "description": "Introducing our eco-friendly bamboo toothbrushes infused with activated charcoal. These gentle and effective brushes are perfect for those looking to switch from plastic to a more sustainable oral care routine. With antibacterial properties, our charcoal-infused toothpaste helps reduce plaque and whiten teeth. Made from 100% natural bamboo, these toothbrushes are biodegradable and compostable. Try them today and join the movement towards a healthier planet!",
+    "category": "Personal Care",
+    "brand": "EcoClean",
+    "price": 9.99,
+    "tags": [
+      "bamboo",
+      "charcoal",
+      "eco-friendly",
+      "sustainable oral care",
+      "antibacterial"
+    ]
+  },
+  {
+    "id": "FMCG-9012",
+    "title": "Quick-Clean All-Purpose Cleaner",
+    "description": "Say goodbye to tedious cleaning routines with our Quick-Clean all-purpose cleaner! Made from a blend of natural ingredients, including lemon essential oil and tea tree oil, this powerful cleaner effectively tackles dirt, grime, and stains on surfaces. With no harsh chemicals or artificial fragrances, you can trust that your home is being cleaned safely and effectively. Try it today and experience the convenience of quick cleaning!",
+    "category": "Cleaning",
+    "brand": "QuickClean",
+    "price": 7.99,
+    "tags": [
+      "all-purpose cleaner",
+      "natural ingredients",
+      "lemon essential oil",
+      "tea tree oil"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Organic Baby Wipes",
+    "description": "Introducing our organic baby wipes, made from 100% natural and biodegradable materials. Our gentle formula is free from harsh chemicals, artificial fragrances, and dyes, ensuring a safe and healthy environment for your little one. With 99% water content and no added preservatives or additives, these wipes are perfect for sensitive skin. Try them today and give your baby the best!",
+    "category": "Baby Care",
+    "brand": "GreenNest",
+    "price": 12.99,
+    "tags": [
+      "organic",
+      "biodegradable",
+      "natural ingredients",
+      "sensitive skin"
+    ]
+  },
+  {
+    "id": "FMCG-7890",
+    "title": "Vegan Protein Powder",
+    "description": "Get the protein boost you need without compromising on your dietary values! Our vegan protein powder is made from a blend of pea, hemp, and brown rice proteins, ensuring a complete amino acid profile. With 20g of protein per serving and no artificial flavors or sweeteners, this powder is perfect for fitness enthusiasts and health-conscious individuals alike. Try it today and experience the power of plant-based nutrition!",
+    "category": "Food",
+    "brand": "VeganPower",
+    "price": 24.99,
+    "tags": [
+      "vegan",
+      "protein powder",
+      "pea protein",
+      "hemp protein"
+    ]
+  },
+  {
+    "id": "FMCG-2345",
+    "title": "Eco-Friendly Laundry Detergent",
+    "description": "Join the sustainable laundry revolution with our eco-friendly detergent! Made from natural and biodegradable ingredients, including soap bark extract and essential oils, this detergent effectively cleans clothes without harming the environment. With no harsh chemicals or artificial fragrances, you can trust that your clothes are being cleaned safely and effectively. Try it today!",
+    "category": "Household",
+    "brand": "EcoClean",
+    "price": 14.99,
+    "tags": [
+      "eco-friendly",
+      "biodegradable",
+      "natural ingredients",
+      "soap bark extract"
+    ]
+  },
+  {
+    "id": "FMCG-6789",
+    "title": "Gluten-Free Granola Bars",
+    "description": "Indulge in the delicious taste of our gluten-free granola bars! Made from a blend of natural ingredients, including nuts, seeds, and dried fruits, these bars are perfect for those with dietary restrictions. With 10g of protein per serving and no artificial preservatives or additives, you can enjoy the convenience of a healthy snack on-the-go. Try them today!",
+    "category": "Snacks",
+    "brand": "GlutenFreeCo",
+    "price": 6.99,
+    "tags": [
+      "gluten-free",
+      "natural ingredients",
+      "nuts",
+      "seeds"
+    ]
+  },
+  {
+    "id": "FMCG-3456",
+    "title": "Natural Shampoo Bar",
+    "description": "Say goodbye to harsh chemicals and artificial fragrances with our natural shampoo bar! Made from a blend of coconut oil, olive oil, and essential oils, this gentle cleanser effectively removes dirt and impurities without stripping your hair of its natural oils. With no sulfates or parabens, you can trust that your hair is being cleaned safely and effectively. Try it today!",
+    "category": "Personal Care",
+    "brand": "NatureNourish",
+    "price": 19.99,
+    "tags": [
+      "natural shampoo",
+      "coconut oil",
+      "olive oil",
+      "essential oils"
+    ]
+  },
+  {
+    "id": "FMCG-12345",
+    "title": "Green Tea & Honey Energy Drink",
+    "description": "Revitalize your day with our unique blend of green tea and pure honey. This energy drink is low in calories, sugar-free, and rich in antioxidants. With a refreshing taste and no artificial flavors or preservatives, it's perfect for fitness enthusiasts and busy professionals alike. Nutrition Facts: Calories 10 per serving, Fat 0g, Protein 2g, Sugar 1g.",
+    "category": "Beverages",
+    "brand": "EcoBrew",
+    "price": 4.99,
+    "tags": [
+      "organic",
+      "sugar-free",
+      "antioxidant-rich",
+      "energy drink"
+    ]
+  },
+  {
+    "id": "FMCG-67890",
+    "title": "Natural Shampoo Bar for Curly Hair",
+    "description": "Say goodbye to harsh chemicals and hello to nourishing, natural ingredients. Our shampoo bar is formulated with coconut oil, shea butter, and argan oil to moisturize and define curly hair. It's also free from sulfates, parabens, and artificial fragrances. Key Ingredients: Coconut Oil, Shea Butter, Argan Oil.",
+    "category": "Personal Care",
+    "brand": "Curly Delights",
+    "price": 7.99,
+    "tags": [
+      "natural",
+      "sulfate-free",
+      "paraben-free",
+      "curly hair care"
+    ]
+  },
+  {
+    "id": "FMCG-34567",
+    "title": "Baking Soda & Essential Oil Laundry Detergent",
+    "description": "Clean your clothes without harsh chemicals! Our eco-friendly laundry detergent is made with baking soda, essential oils, and natural soap. It's biodegradable, non-toxic, and gentle on fabrics. Key Ingredients: Baking Soda, Tea Tree Oil, Eucalyptus Oil.",
+    "category": "Cleaning",
+    "brand": "GreenClean",
+    "price": 9.99,
+    "tags": [
+      "eco-friendly",
+      "biodegradable",
+      "non-toxic",
+      "laundry detergent"
+    ]
+  },
+  {
+    "id": "FMCG-90123",
+    "title": "Whole Grain Crackers with Avocado Spread",
+    "description": "Indulge in the perfect snack for any time of day. Our whole grain crackers are made with wholesome ingredients and paired with a delicious avocado spread. Rich in fiber, protein, and healthy fats, they're perfect for on-the-go or as a satisfying side dish. Nutrition Facts: Calories 120 per serving, Fat 8g, Protein 4g, Fiber 10g.",
+    "category": "Snacks",
+    "brand": "CrunchTime",
+    "price": 3.49,
+    "tags": [
+      "whole grain",
+      "avocado spread",
+      "healthy snack"
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea & Honey Energy Drink",
+    "description": "Replenish your energy with our refreshing Green Tea & Honey Energy Drink. Made with high-quality green tea extract, pure honey, and essential vitamins, this drink is perfect for a morning boost or an afternoon pick-me-up. With only 120 calories per serving, it's also a great choice for those watching their diet. Our unique blend of ingredients will quench your thirst and satisfy your taste buds. Try Green Tea & Honey Energy Drink today!",
+    "category": "Beverages",
+    "brand": "EcoPure",
+    "price": 4.99,
+    "tags": [
+      "energy drink",
+      "green tea",
+      "honey",
+      "natural",
+      "low-calorie"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Baking Bliss All-Purpose Flour",
+    "description": "Indulge in the taste of freshly baked goods with Baking Bliss All-Purpose Flour. Made from high-quality wheat and containing no artificial additives, this flour is perfect for bakers of all levels. With a rich flavor and tender texture, it's ideal for cakes, cookies, breads, and more. Our flour also contains vital nutrients like iron and selenium to support overall health. Try Baking Bliss All-Purpose Flour today and take your baking to the next level!",
+    "category": "Bakery",
+    "brand": "Flourish Foods",
+    "price": 6.99,
+    "tags": [
+      "all-purpose flour",
+      "baking",
+      "wheat",
+      "iron-rich",
+      "seleinium-enriched"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea & Honey Energy Drink",
+    "description": "Revitalize your day with our Green Tea & Honey Energy Drink, made with high-quality green tea extract and pure honey. This refreshing beverage is perfect for fitness enthusiasts and busy professionals alike. With only 120 calories per serving, it's a guilt-free way to boost your energy levels. Our unique blend of ingredients also includes B vitamins and ginseng to support mental clarity and focus. Try Green Tea & Honey Energy Drink today and experience the power of nature in every sip!",
+    "category": "Beverages",
+    "brand": "EcoPure",
+    "price": 4.99,
+    "tags": [
+      "organic",
+      "energy drink",
+      "green tea",
+      "honey",
+      "vegan"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "FreshBloom All-Purpose Cleaner",
+    "description": "Introducing FreshBloom, the eco-friendly all-purpose cleaner that makes cleaning a breeze. Made with plant-based ingredients like aloe vera and lemon essential oil, this gentle yet effective formula is perfect for households, offices, or on-the-go. With no harsh chemicals or artificial fragrances, you can trust FreshBloom to leave your space smelling fresh and clean. Our unique blend of natural ingredients also includes tea tree oil to help combat germs and bacteria. Try FreshBloom today and experience the power of nature in every cleaning task!",
+    "category": "Cleaning",
+    "brand": "NatureClean",
+    "price": 7.99,
+    "tags": [
+      "eco-friendly",
+      "all-purpose cleaner",
+      "plant-based",
+      "aloe vera",
+      "lemon essential oil"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea & Honey Energy Drink",
+    "description": "Revitalize your day with our Green Tea & Honey Energy Drink, made with high-quality green tea leaves and pure honey. This refreshing beverage is rich in antioxidants and has a soothing effect on the throat. With only 120 calories per serving, it's perfect for fitness enthusiasts and busy professionals alike. Our unique blend of green tea extract and honey provides sustained energy without any artificial flavors or preservatives. Try it today!",
+    "category": "Beverages",
+    "brand": "EcoPure",
+    "price": 4.99,
+    "tags": [
+      "energy drink",
+      "green tea",
+      "honey",
+      "antioxidant-rich",
+      "sugar-free"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Baking Bliss All-Purpose Flour",
+    "description": "Indulge in the art of baking with our Baking Bliss All-Purpose Flour, made from high-quality wheat and enriched with vital nutrients. This versatile flour is perfect for making a variety of baked goods, from cakes to cookies, and is free from artificial additives and preservatives. With 12g of protein per serving, it's an excellent choice for health-conscious bakers. Our unique blend of flours ensures a tender crumb and a delicate texture.",
+    "category": "Bakery",
+    "brand": "Flourish Foods",
+    "price": 6.99,
+    "tags": [
+      "all-purpose flour",
+      "wheat flour",
+      "protein-rich",
+      "gluten-free option",
+      "baking blend"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea & Honey Energy Drink",
+    "description": "Revitalize your day with our Green Tea & Honey Energy Drink, made with real green tea extract and pure honey for a natural energy boost. Rich in antioxidants and low in sugar, this refreshing drink is perfect for fitness enthusiasts and busy professionals alike. Each 12oz can contains 120 calories, 2g of fat, 25g of carbs, and 20mg of caffeine. Enjoy the great taste of nature in every sip!",
+    "category": "Beverages",
+    "brand": "EcoPure",
+    "price": 4.99,
+    "tags": [
+      "organic",
+      "energy drink",
+      "natural ingredients",
+      "low sugar"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Baking Bliss All-Purpose Flour",
+    "description": "Indulge in the art of baking with our Baking Bliss All-Purpose Flour, crafted from high-quality wheat and enriched with vital nutrients. This versatile flour is perfect for whipping up decadent cakes, delicate pastries, or hearty breads. With a protein content of 12g per cup and no artificial additives, you can trust this flour to deliver consistent results every time. Ideal for home bakers and professional pastry chefs alike.",
+    "category": "Bakery",
+    "brand": "Flourish Foods",
+    "price": 6.99,
+    "tags": [
+      "all-purpose flour",
+      "high-protein",
+      "no artificial additives",
+      "baking essentials"
+    ]
+  },
+  {
+    "id": "FMCG-1234",
+    "title": "Green Tea & Honey Energy Drink",
+    "description": "Replenish your energy with our Green Tea & Honey Energy Drink, made with high-quality green tea extract and pure honey. This refreshing beverage is perfect for a morning pick-me-up or an afternoon boost. With only 120 calories per serving, it's also a great option for those watching their diet. Our unique blend of antioxidants and natural sweeteners will keep you going all day long.",
+    "category": "Beverages",
+    "brand": "EcoBrew",
+    "price": 2.99,
+    "tags": [
+      "energy drink",
+      "green tea",
+      "honey",
+      "low calorie",
+      "antioxidant-rich"
+    ]
+  },
+  {
+    "id": "FMCG-5678",
+    "title": "Baby Powder with Aloe Vera & Chamomile",
+    "description": "Soften and calm your little one's skin with our Baby Powder, infused with soothing aloe vera and calming chamomile. Our gentle formula is free from harsh chemicals and artificial fragrances, making it perfect for sensitive skin. With its soft, powdery texture and subtle scent, this baby powder is a must-have for any nursery.",
+    "category": "Baby Care",
+    "brand": "PureStart",
+    "price": 4.99,
+    "tags": [
+      "baby powder",
+      "aloe vera",
+      "chamomile",
+      "gentle formula",
+      "hypoallergenic"
+    ]
+  }
+]

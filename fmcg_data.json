@@ -1,41 +1,44 @@
 [
   {
-    "id": "PROD001",
+    "id": "FMB12345",
     "title": "Green Tea Matcha Latte Mix",
-    "description": "Boost your energy with our Green Tea Matcha Latte Mix! Made from high-quality matcha powder, green tea leaves, and natural sweeteners, this mix is perfect for a quick pick-me-up. Enjoy the rich, slightly bitter taste of matcha in the comfort of your own home. Nutrition Facts: Calories 120, Fat 2g, Protein 3g, Sugar 10g per serving (1 cup). Tags: [matcha, green tea, latte mix, energy drink, healthy]",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our easy-to-make latte mix. Made from high-quality matcha powder, this blend is perfect for coffee lovers looking to switch up their morning routine. Rich in antioxidants and L-theanine, it promotes a sense of calm focus and clarity. Mix 1-2 teaspoons with 8 oz hot water and enjoy! Nutrition Facts: Calories: 120, Fat: 0g, Protein: 3g, Sugar: 10g",
     "category": "Beverages",
     "brand": "Matcha Magic",
     "price": 4.99,
     "tags": [
-      "organic",
-      "vegan",
-      "gluten-free"
+      "matcha",
+      "green tea",
+      "latte mix",
+      "caffeine-free"
     ]
   },
   {
-    "id": "PROD002",
-    "title": "Natural Deodorant Spray",
-    "description": "Stay fresh and confident all day with our Natural Deodorant Spray! Made with soothing aloe vera, tea tree oil, and baking soda, this spray keeps you dry and odor-free. Perfect for sensitive skin and the environment. Tags: [natural, deodorant, antiperspirant, vegan, cruelty-free].",
-    "category": "Personal Care",
-    "brand": "Earthly Essentials",
+    "id": "SNK67890",
+    "title": "Spicy Mango Chili Chips",
+    "description": "Get your snack on with our Spicy Mango Chili Chips! Made from crunchy rice flour and seasoned with a blend of spices, these chips are perfect for those who love a little heat. With real mango puree and chili peppers, they're sweet, spicy, and addictive. Enjoy as a snack or use as a topping for your favorite dishes. Ingredients: Rice Flour, Mango Puree, Chili Peppers, Salt, Sugar. Nutrition Facts: Calories: 150, Fat: 8g, Sodium: 200mg",
+    "category": "Snacks",
+    "brand": "Savory Delights",
     "price": 6.99,
     "tags": [
-      "aloe vera",
-      "tea tree oil",
-      "baking soda"
+      "spicy",
+      "mango",
+      "chili chips",
+      "rice flour"
     ]
   },
   {
-    "id": "PROD003",
-    "title": "Eco-Friendly Dish Soap",
-    "description": "Clean your home with a clear conscience! Our Eco-Friendly Dish Soap is made from natural ingredients like coconut oil, olive oil, and essential oils. Biodegradable and free of harsh chemicals, this soap is gentle on hands and the environment. Tags: [eco-friendly, biodegradable, natural ingredients].",
-    "category": "Cleaning",
-    "brand": "Green Clean Co.",
-    "price": 3.49,
+    "id": "PCD12345",
+    "title": "Aloe Vera and Coconut Oil Body Lotion",
+    "description": "Nourish your skin with our rich and creamy aloe vera body lotion. Made with coconut oil, shea butter, and essential oils, this lotion moisturizes and soothes dry skin while leaving it feeling soft and supple. Perfect for after-shower use or as a pre-bedtime treat. Ingredients: Aloe Vera Gel, Coconut Oil, Shea Butter, Vitamin E Oil. Tags: natural, organic, moisturizing",
+    "category": "Personal Care",
+    "brand": "Pure Beauty Co.",
+    "price": 9.99,
     "tags": [
+      "aloe vera",
       "coconut oil",
-      "olive oil",
-      "essential oils"
+      "natural",
+      "moisturizing"
     ]
   }
 ]
