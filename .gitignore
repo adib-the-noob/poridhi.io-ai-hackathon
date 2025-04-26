@@ -1,6 +1,4 @@
-venv/
-env/
-
-
-data_processor/output/
 .env
+env/
+__pycache__/
+*.pyc
