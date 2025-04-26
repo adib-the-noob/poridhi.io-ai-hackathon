@@ -1,0 +1,36 @@
+services:
+  influxdb:
+    image: influxdb:1.8
+    container_name: influxdb
+    ports:
+      - "8086:8086"
+    environment:
+      - INFLUXDB_DB=k6
+    volumes:
+      - ./storage/influxdb-data:/var/lib/influxdb
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3002:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - ./storage/grafana-storage:/var/lib/grafana
+
+  k6:
+    build:
+      context: .
+      dockerfile: Dockerfile.k6
+    container_name: k6
+    depends_on:
+      - influxdb
+    volumes:
+      - ./k6:/scripts
+    working_dir: /scripts
+    entrypoint: [ "/bin/sh" ]
+    tty: true
+    environment:
+      - K6_OUT=influxdb=http://influxdb:8086/k6

@@ -1,0 +1,20 @@
+FROM alpine:3.18
+
+# Enable root installs
+USER root
+
+# Install dependencies
+RUN apk add --no-cache nodejs npm curl tar bash
+
+# Install k6 binary manually (official release)
+RUN curl -sSL https://github.com/grafana/k6/releases/download/v0.58.0/k6-v0.58.0-linux-amd64.tar.gz \
+  | tar -xz -C /usr/local/bin --strip-components=1 k6-v0.58.0-linux-amd64/k6
+
+# Install esbuild + typescript globally
+RUN npm install -g esbuild typescript
+
+# Create working directory
+WORKDIR /scripts
+
+# Default shell
+ENTRYPOINT ["/bin/sh"]
